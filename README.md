@@ -3,7 +3,7 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-'''tipos primitivos de dados (String, Number,Boolean)
+'''tipos primitivos de dados (String, Number,Boolean),
 '''Fundamentos do Javascript
 
 
