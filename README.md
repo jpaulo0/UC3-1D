@@ -219,14 +219,3 @@ Sendo assim, __recomenda-se usar o triple equals__ para evitar surpresas.
 
 E a internet não perdoa as surpresas:
 
-![meme1](https://www.freecodecamp.org/news/content/images/2019/07/best-js-meme-to-date-2.png)
-
-### Vamos estudar mais sobre o assunto?
-
-[História e memes do JavaScrip](https://www.youtube.com/playlist?list=PLh2Y_pKOa4UeJOI2P-N6J8nGyV3aCuO3O)
-
-[const, let e var](https://medium.com/@natalya.peixoto/var-const-e-let-qual-a-diferen%C3%A7a-338ff0c7a972)
-
-[Eloquent Javascript](https://braziljs.github.io/eloquente-javascript/chapters/valores-tipos-operadores/)
-
-[Valores Verdadeiros e falsos - Truthy e falsy](https://developer.mozilla.org/pt-BR/docs/Glossario/Truthy#:~:text=Nesta%20p%C3%A1gina&text=Em%20JavaScript%2C%20um%20valor%20truthy,de%20tipo%20em%20contextos%20booleanos)
