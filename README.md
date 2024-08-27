@@ -217,5 +217,11 @@ Com o triple equals o javascript nunca tenta converter os valores. Por isso, o r
 
 Sendo assim, __recomenda-se usar o triple equals__ para evitar surpresas.
 
-E a internet não perdoa as surpresas:
+### Atividades de js:
+At1: [javascript](https://codepen.io/Sx_jo-o/pen/LYKQgRY)
+At2: [javascript math](https://codepen.io/Sx_jo-o/pen/KKjQxqa)
+AT3: [javascript math](https://codepen.io/Sx_jo-o/pen/ZEdaxLL)
+AT4: [javascript math](https://codepen.io/Sx_jo-o/details/PorORoV)
+AT5: [javascript math](https://codepen.io/Sx_jo-o/pen/VwJrLyr)
+
 
