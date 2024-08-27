@@ -3,8 +3,10 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-'''tipos primitivos de dados (String, Number,Boolean),
 '''Fundamentos do Javascript
+Ex: 
+const nome = "João paulo"
+console.log(joão)
 
 
 ## Atividades desenvolvidas
