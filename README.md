@@ -3,7 +3,8 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
+'''tipos primitivos de dados (String, Number,
+Boolean),
 
 
 
