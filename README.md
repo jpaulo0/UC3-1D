@@ -49,19 +49,6 @@ Diferentemente da let e da var. E assim com a let ela também tem escopo de bloc
 
 MDN: [var](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/var), [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const), [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 
-
-# Escopo
-
-A grande maioria das linguagens possui o conceito de escopos, e JavaScript não é diferente. Escopo é a acessibilidade de objetos, variáveis e funções em diferentes partes do código.
-
-Em outras palavras, o que determina quais são os dados que podem ser acessados em uma determinada parte do código é o escopo.
-
-
-## Escopo Gobal
-
-Todos tem acesso a valores que são definidos no escopo global.
-
-
 ## Escopo Local
 
 No escopo local, variaveis que são criadas dentro dele não podem ser acessadas no escopo global(com excessao da var).
