@@ -49,33 +49,6 @@ Diferentemente da let e da var. E assim com a let ela também tem escopo de bloc
 
 MDN: [var](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/var), [const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const), [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 
-## Escopo Local
-
-No escopo local, variaveis que são criadas dentro dele não podem ser acessadas no escopo global(com excessao da var).
-
-Escopos locais são criados através de __funções__ e __blocos__ de código.
-Bloco de código é tudo que está dentro de chaves `{}`
-
-```js
-// escopo global
-
-if (2 > 1) {
-  //escopo local
-  const restrito = 'olá'
-}
-```
-console.log(restrito) // ReferenceError: restrito is not defined
-
-agora vamos definir a variável `popular` fora do bloco de if (no escopo global).
-Veja que conseguimos acessa-lá de dentro do escopo local.
-
-```js
-const popular = 'oi'
-if (2 > 1) {
-  //escopo local
-  console.log(popular)
-}
-```
 
 # Estrutura de dados: Tipos primitivos
 
