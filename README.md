@@ -1,6 +1,6 @@
 # Introdução a lógica de programação 
 
-![js](https://media.licdn.com/dms/image/C4E12AQFSLShWrDRc_A/article-cover_image-shrink_720_1280/0/1648056023849?e=2147483647&v=beta&t=3xVkoe16mHiiUmYfNB1-a7ARItZCDJd70gH1ioP-OMc)
+
 
 Cada linguagem de programação têm sua própria estrutura de dados embutida, e essa estrutura frequentemente difere uma da outra.  Vamos conhecer os tipos de dados disponíveis na linguagem JavaScript e que propriedades eles possuem. Isso envolve o estudo de variáveis e tipos primitivos.
 
